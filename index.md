@@ -15,7 +15,7 @@ Languages | C#, C++, HLSL, GLSL, Python, XML
 Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, Photoshop, Blender, Adobe XD, GameMaker Studio 2, MATLAB, Autodesk Inventor
  
 ## POR
- 1. Technical Secretary, IIT Gandhinagar
+ 1. Technical Secretary, [IIT Gandhinagar](https://iitgn.ac.in/?msclkid=dbc59974ac6611ecabfc0c003b876880)
   * Lorem ipsum dolor sit amet, 
   * consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
   * dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
